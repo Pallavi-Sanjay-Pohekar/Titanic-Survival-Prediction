@@ -15,9 +15,9 @@ Predict whether a passenger survived the Titanic disaster using a machine learni
 4. Execute each cell in the notebook.
 
 # Summary
-✅ Handled missing values, encoding, and normalization
-✅ Trained and evaluated Random Forest Classifier
-✅ Saved the model
-✅ Plotted performance metrics
-✅ Clean and structured code
-✅ Published to GitHub
+ Handled missing values, encoding, and normalization
+ Trained and evaluated Random Forest Classifier
+ Saved the model
+ Plotted performance metrics
+ Clean and structured code
+ Published to GitHub
