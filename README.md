@@ -8,3 +8,8 @@ Predict whether a passenger survived the Titanic disaster using a machine learni
 •	pip install -r requirements.txt
 •	Run the Jupyter Notebook:
 •	Execute each cell in the notebook.
+# Results
+Model: Random Forest Classifier
+Accuracy: ~85%
+Precision: ~88%
+Recall: ~75%
