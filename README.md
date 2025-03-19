@@ -9,7 +9,4 @@ Predict whether a passenger survived the Titanic disaster using a machine learni
 •	Run the Jupyter Notebook:
 •	Execute each cell in the notebook.
 # Results
-Model: Random Forest Classifier
-Accuracy: ~85%
-Precision: ~88%
-Recall: ~75%
+The Titanic Survival Prediction model uses a Random Forest Classifier with an accuracy of approximately 85%. It achieved a precision of around 88% and a recall of about 75%. The model effectively handles missing values, encodes categorical variables, and normalizes data for improved performance.
